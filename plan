@@ -1,0 +1,18 @@
+
+Three tier Achitecture
+
+presentation layer
+
+download bootstrap 5
+know how to manipulate the screen width with bootstrap
+master the DOM with javascript
+
+first of all what is this wabsite about?
+	well i am thinking some like it should be all brands accomodated, if you selling clothes, music, sell whatever product of your choice, we gat you coverd here
+	so what could be the best layout for this.
+1)Design the side nav
+	so this should be about our servises.
+	remember this is our only task, so it should be outstanding
+	
+2)change it according to the device width
+3)
